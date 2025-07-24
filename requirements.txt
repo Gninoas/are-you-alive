@@ -1,0 +1,5 @@
+flask
+pytz
+json5
+python-dotenv
+flask-cors
